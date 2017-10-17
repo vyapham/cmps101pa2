@@ -1,11 +1,3 @@
-/*********
-* Name: VY PHAM
-* ID: vyapham
-* Student ID #: 1593394
-* Assignment name: pa2
-********/
-
-Submission contains:
 	   List.h - Header file of the list
 	   List.c - Contains operations of the list 
 	   ListClient.c - unaltered
